@@ -5,4 +5,4 @@ There are methods for setting and retrieving values with or without a sign and c
 
 This repository contains an Eclipse project BIT_PACKED_ARRAY with the associated files.
 
-The United Tests run in JUnit4.
+The Unit tests run in JUnit4.
