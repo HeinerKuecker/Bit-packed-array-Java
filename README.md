@@ -3,6 +3,6 @@ Java classes to store data with a width that is not an integer multiple of 8 sav
 
 There are methods for setting and retrieving values with or without a sign and copying blocks such as java.lang.System#arraycopy.
 
-This repository contains an Eclipse project with the associated files.
+This repository contains an Eclipse project BIT_PACKED_ARRAY with the associated files.
 
 The United Tests run in JUnit4.
